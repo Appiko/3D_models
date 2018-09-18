@@ -1,2 +1,2 @@
-# sense_snap_3D_parts
-Contains all FreeCAD files and .stl files of 3D printable parts designed by Appiko.
+# DSLR Enclosure
+![DSLR_Enclosure03](https://github.com/Appiko/3D_models/blob/master/DSLR%20Enclosure/DSLR_Enclosure03.png)
