@@ -12,7 +12,7 @@ FILE_NAME(
 /* name */ 
 'E:/Appiko/3D_models/senseEle Enclosures/Back_senseEle_PCB_Antenna_rev
 1_Enclosure_V2.step',
-/* time_stamp */ '2019-12-02T16:01:50+06:00',
+/* time_stamp */ '2019-12-09T15:12:06+06:00',
 /* author */ (''),
 /* organization */ (''),
 /* preprocessor_version */ 'ST-DEVELOPER v18',
@@ -6562,18 +6562,18 @@ SOLID_ANGLE_UNIT()
 #6135=SHAPE_REPRESENTATION('',(#3568),#6128);
 #6136=PRODUCT_DEFINITION_CONTEXT('part definition',#6141,'design');
 #6137=PRODUCT_DEFINITION('senseEle_PCB_Antenna_rev1_Enclosure_V2',
-'senseEle_PCB_Antenna_rev1_Enclosure_V2 v36',#6138,#6136);
+'senseEle_PCB_Antenna_rev1_Enclosure_V2 v2',#6138,#6136);
 #6138=PRODUCT_DEFINITION_FORMATION('',$,#6143);
 #6139=PRODUCT_RELATED_PRODUCT_CATEGORY(
-'senseEle_PCB_Antenna_rev1_Enclosure_V2 v36',
-'senseEle_PCB_Antenna_rev1_Enclosure_V2 v36',(#6143));
+'senseEle_PCB_Antenna_rev1_Enclosure_V2 v2',
+'senseEle_PCB_Antenna_rev1_Enclosure_V2 v2',(#6143));
 #6140=APPLICATION_PROTOCOL_DEFINITION('international standard',
 'automotive_design',2009,#6141);
 #6141=APPLICATION_CONTEXT(
 'Core Data for Automotive Mechanical Design Process');
 #6142=PRODUCT_CONTEXT('part definition',#6141,'mechanical');
 #6143=PRODUCT('senseEle_PCB_Antenna_rev1_Enclosure_V2',
-'senseEle_PCB_Antenna_rev1_Enclosure_V2 v36',$,(#6142));
+'senseEle_PCB_Antenna_rev1_Enclosure_V2 v2',$,(#6142));
 #6144=PRESENTATION_STYLE_ASSIGNMENT((#6145));
 #6145=SURFACE_STYLE_USAGE(.BOTH.,#6146);
 #6146=SURFACE_SIDE_STYLE('',(#6147));
